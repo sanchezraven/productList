@@ -1,0 +1,40 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header__heading {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+header {
+    height: 299px;
+    background: linear-gradient(0deg, rgba(11, 11, 11, 0.7), rgba(11, 11, 11, 0.7)), url(img/Rectangle\ 1.png);
+}
+
+.header__input {
+    background: #C4C4C4;
+    opacity: 0.7;
+    border-radius: 50px 0 0 50px;
+    width: 727px;
+    height: 76px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 26px;
+
+    text-transform: capitalize;
+
+    color: 555;
+}
+
+.header__button {
+    width: 98px;
+    height: 75px;
+    background: #C4C4C4;
+    border-radius: 0px 50px 50px 0px;
+}
