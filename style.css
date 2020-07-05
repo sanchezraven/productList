@@ -9,6 +9,13 @@ body {
     line-height: 42px;
     text-transform: uppercase;
     color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+
+.tac {
+    justify-content: center;
 }
 
 header {
